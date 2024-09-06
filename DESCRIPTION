@@ -1,0 +1,15 @@
+Package: praiseme
+Title: Deliver Praise to Someone
+Version: 0.0.0.9000
+Authors@R:
+  person(given = "Gloria",
+    family = "Nguyen",
+    role = c("aut", "cre"),
+    email = "gloria.nguyen@students.mq.edu.au")
+Description: We all deserve a little encouragement sometime to keep us going (Plus Ultra!). This package aim to deliver a little praise whenever you need them.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: 
+    glue
